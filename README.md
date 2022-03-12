@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Humza
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ...  Mysql
+- 🌱 I’m currently learning ...  Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... gmail humza16201449@credencehighschool.com
 
